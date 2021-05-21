@@ -18,7 +18,7 @@ $(call inherit-product, vendor/aosip/config/common_full_phone.mk)
 PRODUCT_NAME := aosip_guacamole
 PRODUCT_DEVICE := guacamole
 PRODUCT_BRAND := OnePlus
-PRODUCT_MODEL := OnePlus 7 Pro
+PRODUCT_MODEL := GM1917
 PRODUCT_MANUFACTURER := OnePlus
 
 PRODUCT_AAPT_CONFIG := xxxhdpi
